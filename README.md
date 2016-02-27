@@ -16,7 +16,7 @@ As of 668a71e803ba4c840d905ac4981afc69db4cd4f5 this repository contains:
 ## Current exported formats: 
 - [x] png
 - [x] pdf
-- [ ] jpg
+- [x] jpg
 - [ ] gif
 - [ ] svg
 
