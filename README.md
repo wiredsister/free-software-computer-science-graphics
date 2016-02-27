@@ -1,5 +1,7 @@
 # free-software-computer-science-graphics 
 
+![Binary Tree](https://raw.githubusercontent.com/wiredsister/free-software-computer-science-graphics/master/data_structures/b_tree.jpg)
+
 A free software repository of infographics and visualizations for understanding Computer Science ideas.
 
 As of 668a71e803ba4c840d905ac4981afc69db4cd4f5 this repository contains:
